@@ -25,7 +25,7 @@
 ( https://www.linkedin.com/in/rabita-maharjan-792bb5a2/)
 
 
-![raaa](https://user-images.githubusercontent.com/125188312/218330392-821518ef-ebbc-4b25-a89a-b9e8b6cd373b.jpg)
+![raaa](https://user-images.githubusercontent.com/125188312/218330392-821518ef-ebbc-4b25-a89a-b9e8b6cd373b.jpg/200/200)
 
 
 
