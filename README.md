@@ -13,7 +13,7 @@
 - listening to music 
 
 
-## My ` language ` levels
+## My ` Language ` levels
 | Language | Level |
 | --- | --- |
 | Nepali | Mother tongue |
