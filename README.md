@@ -14,14 +14,14 @@
 ## My ` language ` levels
 | Language | Level |
 | --- | --- |
-| Nepali | 5 |
-| English | 3.5  |
-| Dutch | 2 |
-| French | 1 |
+| Nepali | Mother tongue |
+| English | Advance  |
+| Dutch | Good |
+| French | Basic |
 
 ## Here is my Linkedin ID 
 
-! [alt text] ( https://www.linkedin.com/in/rabita-maharjan-792bb5a2/)
+( https://www.linkedin.com/in/rabita-maharjan-792bb5a2/)
 
 
 
