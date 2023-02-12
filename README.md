@@ -5,7 +5,7 @@
 ## ` Hobbies `
 - Travelling **Nature and historical places**
 - Gradenning and taking care of house plants
-- cooking * trying to cook foods from different countries *
+- cooking *trying to cook foods from different countries*
 - Trekking and Hiking
 - listening to music 
 
