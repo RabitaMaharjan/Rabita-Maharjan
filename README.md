@@ -14,16 +14,16 @@ I'am ` Rabita Maharjan `. I am 32 years old woman from Nepal, came to belgium in
 
 
 ## My ` Language ` levels
-| Language |Level |
+| Language |Level|
 | --- | --- |
-| Nepali |Mother tongue |
-| English |Advance  |
-| Dutch |Good |
-| French |Basic |
+| Nepali |Mother tongue|
+| English |Advance|
+| Dutch |Good|
+| French |Basic|
 
 ## Here is my Linkedin ID 
 
-( https://www.linkedin.com/in/rabita-maharjan-792bb5a2/)
+<"https://www.linkedin.com/in/rabita-maharjan-792bb5a2/">
 
 ## My favourite fruit and vegetables to eat
 <html>
