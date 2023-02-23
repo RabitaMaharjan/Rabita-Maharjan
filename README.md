@@ -53,7 +53,7 @@ I'm ` Rabita Maharjan `. I am 32 years old woman from Nepal, came to Belgium in 
          </body>
       </html>
   
-## My goal is to become a developer and I will reach my goal very soon.👩‍💻
+## My goal is to become a developer and I will achieve my goal very soon.👩‍💻
   
       
        
